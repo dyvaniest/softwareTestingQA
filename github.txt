@@ -1,0 +1,2 @@
+#GitHub#
+GitHub adalah platform berbasis web yang digunakan untuk hosting dan pengelolaan kode sumber, terutama menggunakan sistem kontrol versi Git. 
